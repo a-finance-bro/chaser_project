@@ -1,13 +1,10 @@
-[BOM_ornament.csv](https://github.com/user-attachments/files/23951884/BOM_ornament.csv)# LED Chaser Project - A Simple Christmas Ornament
+# LED Chaser Project - A Simple Christmas Ornament
 
 I made this LED chaser as a guided project for Hack Club Blueprint. It has 10 LEDs that flash in sequence. I chose to make it an ornament, since Christmas is just around the corner, and I figured it would be cool to have on my family's tree. :)
 
 Made for Hack Club Blueprint.
 
-My BOM can be found here: [Uploading BOM_ornamProduct name,Product link,Product cost,Product amount
-"Custom PCB (JLCPCB)","https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&spm=Jlcpcb.Homepage.1010","$5.12",1
-"LED 5mm","N/A","N/A",10
-ent.csv…]()
+My BOM can be found here: [BOM_ornament.csv](https://github.com/user-attachments/files/23951884/BOM_ornament.csv)
 
 
 
